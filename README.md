@@ -1,16 +1,17 @@
-<!-- Profile Banner -->
+<!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:3d3d3d&height=200&section=header&text=Renujan%20(Roshan%20Renujan)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Hi, I'm Renujan  
+# 👋 Hi, I'm Renujan (Roshan Renujan)
 
 🎓 Software Engineering Undergraduate @ **SLIIT Northern UNI** (University of Bedfordshire)  
+👨‍💻 Founder & Software Developer @ **Zentrixon** — [zentrixon.com](https://www.zentrixon.com/)  
 💻 Software Engineer Intern @ **Vulture Lines Pvt Ltd (Remote)**  
 🌱 Passionate about **Django, React, and Wagtail CMS**  
-📍 Based in **Sri Lanka**  
+📍 Based in Sri Lanka  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -22,33 +23,37 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
+
+**Founder & Software Developer – Zentrixon**  
+- Leading development and strategic direction at Zentrixon ([zentrixon.com](https://www.zentrixon.com/))  
+- Architecting SaaS solutions? Innovating interfaces? Whatever you're doing there—this is the place to highlight it.
 
 **Software Engineer Intern – Vulture Lines Pvt Ltd (Remote)** _(Feb 2025 – Present)_  
-- 🛠️ Built and managed features using **Python, Django, Wagtail CMS**  
-- 🌐 Designed **REST APIs** and integrated them with **React frontend**  
-- 📱 Developed responsive UI with **Bootstrap & Tailwind**  
-- 🔐 Implemented **secure authentication** using token-based systems  
+- 🛠 Built and managed features using **Python, Django, Wagtail CMS**.  
+- 🌐 Designed **REST APIs** and integrated with **React** frontend.  
+- 📱 Developed responsive UI using **Bootstrap & Tailwind**.  
+- 🔐 Implemented **secure authentication** systems.
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
 ### 🏬 Jewelry Shop Website  
 - **Stack:** React.js, Django (Wagtail), SQLite  
-- 📦 Backend with Wagtail CMS for **products, carts, enquiries, billing**  
-- 💳 Implemented catalog, shopping cart & subscriber email system  
-- 📱 Responsive UI with validations for smooth customer interaction  
+- Backend with Wagtail CMS for **products, carts, enquiries, billing**  
+- Catalog, shopping cart & subscriber mail system  
+- Responsive UI with validations
 
 ### 📚 Digital Examination Website  
 - **Stack:** Django, React.js, SQLite  
-- 👨‍🏫 Role-based dashboards for **students, supervisors, and admins**  
-- 🔐 Secure authentication with **JWT Tokens**  
-- 📊 Real-time exam progress tracking & email result delivery  
+- Role-based dashboards for **students, supervisors, and admins**  
+- Secure authentication with **JWT Tokens**  
+- Real-time exam tracking & email result delivery
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠 Skills & Tools
 
 **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
 **Frameworks & Tools:** React.js, Django (Wagtail CMS), PostgreSQL, Vercel, Render, Postman, GitHub Actions  
@@ -56,13 +61,13 @@
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=python,django,react,nodejs,postgresql,mysql,html,css,js,ts,git,vscode,vercel)
+![Skills Icons](https://skillicons.dev/icons?i=python,django,react,nodejs,postgresql,mysql,html,css,js,ts,git,vscode,vercel)
 
 </div>
 
 ---
 
-## 🏅 Achievements  
+## 🏅 Achievements
 
 <div align="center">
 
@@ -72,11 +77,16 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let's Connect
 
-📧 **roshanrenujan20020426@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/roshan-renujan)  
-🐙 [GitHub](https://github.com/Renujan)  
+<div align="center">
+
+<a href="mailto:roshanrenujan20020426@gmail.com">📧 Email</a> •  
+<a href="https://www.linkedin.com/in/roshan-renujan">LinkedIn</a> •  
+<a href="https://www.zentrixon.com/">Zentrixon</a> •  
+<a href="https://github.com/Renujan">GitHub</a>
+
+</div>
 
 ---
 
