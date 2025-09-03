@@ -1,4 +1,4 @@
-<img width="1920" height="4290" alt="screencapture-linkedin-in-roshan-renujan-2025-09-03-16_39_13" src="https://github.com/user-attachments/assets/46634bc7-9fa2-4d25-9732-28832a9af9b8" /><!-- Profile Banner -->
+<!-- Profile Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:3d3d3d&height=200&section=header&text=Renujan%20(Roshan%20Renujan)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hi, I'm Renujan  
