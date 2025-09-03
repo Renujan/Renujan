@@ -7,11 +7,11 @@
 👨‍💻 Founder & Software Developer @ **Zentrixon** — [zentrixon.com](https://www.zentrixon.com/)  
 💻 Software Engineer Intern @ **Vulture Lines Pvt Ltd (Remote)**  
 🌱 Passionate about **Django, React, and Wagtail CMS**  
-📍 Based in Sri Lanka  
+📍 Based in **Sri Lanka**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
   
@@ -23,37 +23,37 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
 **Founder & Software Developer – Zentrixon**  
-- Leading development and strategic direction at Zentrixon ([zentrixon.com](https://www.zentrixon.com/))  
-- Architecting SaaS solutions? Innovating interfaces? Whatever you're doing there—this is the place to highlight it.
+- Leading development and strategic direction at **Zentrixon** ([zentrixon.com](https://www.zentrixon.com/))  
+- Building SaaS solutions and delivering innovative software products  
 
 **Software Engineer Intern – Vulture Lines Pvt Ltd (Remote)** _(Feb 2025 – Present)_  
-- 🛠 Built and managed features using **Python, Django, Wagtail CMS**.  
-- 🌐 Designed **REST APIs** and integrated with **React** frontend.  
-- 📱 Developed responsive UI using **Bootstrap & Tailwind**.  
-- 🔐 Implemented **secure authentication** systems.
+- 🛠 Built and managed features using **Python, Django, Wagtail CMS**  
+- 🌐 Designed **REST APIs** and integrated them with **React frontend**  
+- 📱 Developed responsive UI with **Bootstrap & Tailwind**  
+- 🔐 Implemented **secure authentication** with token-based systems  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
 ### 🏬 Jewelry Shop Website  
 - **Stack:** React.js, Django (Wagtail), SQLite  
-- Backend with Wagtail CMS for **products, carts, enquiries, billing**  
-- Catalog, shopping cart & subscriber mail system  
-- Responsive UI with validations
+- 📦 Backend with Wagtail CMS for **products, carts, enquiries, billing**  
+- 💳 Implemented catalog, shopping cart & subscriber email system  
+- 📱 Responsive UI with validations for smooth customer interaction  
 
 ### 📚 Digital Examination Website  
 - **Stack:** Django, React.js, SQLite  
-- Role-based dashboards for **students, supervisors, and admins**  
-- Secure authentication with **JWT Tokens**  
-- Real-time exam tracking & email result delivery
+- 👨‍🏫 Role-based dashboards for **students, supervisors, and admins**  
+- 🔐 Secure authentication with **JWT Tokens**  
+- 📊 Real-time exam progress tracking & email result delivery  
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Tools  
 
 **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
 **Frameworks & Tools:** React.js, Django (Wagtail CMS), PostgreSQL, Vercel, Render, Postman, GitHub Actions  
@@ -67,7 +67,7 @@
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements  
 
 <div align="center">
 
@@ -77,16 +77,22 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
-<div align="center">
-
-<a href="mailto:roshanrenujan20020426@gmail.com">📧 Email</a> •  
-<a href="https://www.linkedin.com/in/roshan-renujan">LinkedIn</a> •  
-<a href="https://www.zentrixon.com/">Zentrixon</a> •  
-<a href="https://github.com/Renujan">GitHub</a>
-
-</div>
+<p align="center">
+  <a href="mailto:roshanrenujan20020426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roshan-renujan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Renujan">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.zentrixon.com/">
+    <img src="https://img.shields.io/badge/Zentrixon-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Zentrixon"/>
+  </a>
+</p>
 
 ---
 
