@@ -26,9 +26,31 @@
 
 ## 🛠 Skills & Tools  
 
-**Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-**Frameworks & Tools:** React.js, Django (Wagtail CMS), PostgreSQL, Vercel, Render, Postman, GitHub Actions  
-**Concepts:** REST APIs, Deployment, Token Security, Agile Development, Email Notifications  
+## 💻 Familiar Languages
+![Python](https://skillicons.dev/icons?i=python) 
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![HTML](https://skillicons.dev/icons?i=html) 
+![CSS](https://skillicons.dev/icons?i=css) 
+
+## ⚙️ Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react) 
+![Django](https://skillicons.dev/icons?i=django) 
+![Wagtail](https://skillicons.dev/icons?i=wagtail) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+
+## 🗄️ Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+
+## 🛠️ Tools & Platforms
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Render](https://skillicons.dev/icons?i=render) 
+![Postman](https://skillicons.dev/icons?i=postman) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![VS Code](https://skillicons.dev/icons?i=vscode) 
+ 
 
 <div align="center">
   
