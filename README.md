@@ -9,19 +9,6 @@
 🌱 Passionate about **Django, React, and Wagtail CMS**  
 📍 Based in **Sri Lanka**  
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renujan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renujan&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Renujan&theme=tokyonight&hide_border=true)  
-
-</div>
-
----
 
 ## 💼 Experience  
 
