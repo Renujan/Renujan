@@ -35,23 +35,7 @@
 - 📱 Developed responsive UI with **Bootstrap & Tailwind**  
 - 🔐 Implemented **secure authentication** with token-based systems  
 
----
 
-## 🚀 Projects  
-
-### 🏬 Jewelry Shop Website  
-- **Stack:** React.js, Django (Wagtail), SQLite  
-- 📦 Backend with Wagtail CMS for **products, carts, enquiries, billing**  
-- 💳 Implemented catalog, shopping cart & subscriber email system  
-- 📱 Responsive UI with validations for smooth customer interaction  
-
-### 📚 Digital Examination Website  
-- **Stack:** Django, React.js, SQLite  
-- 👨‍🏫 Role-based dashboards for **students, supervisors, and admins**  
-- 🔐 Secure authentication with **JWT Tokens**  
-- 📊 Real-time exam progress tracking & email result delivery  
-
----
 
 ## 🛠 Skills & Tools  
 
