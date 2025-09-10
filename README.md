@@ -9,6 +9,7 @@
 🌱 Passionate about **Django, React, and Wagtail CMS**  
 📍 Based in **Sri Lanka**  
 
+---
 
 ## 💼 Experience  
 
@@ -22,40 +23,37 @@
 - 📱 Developed responsive UI with **Bootstrap & Tailwind**  
 - 🔐 Implemented **secure authentication** with token-based systems  
 
-
+---
 
 ## 🛠 Skills & Tools  
 
-## 💻 Familiar Languages
+### 💻 Familiar Languages
 ![Python](https://skillicons.dev/icons?i=python) 
 ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![TypeScript](https://skillicons.dev/icons?i=ts) 
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
 
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react) 
 ![Django](https://skillicons.dev/icons?i=django) 
 ![Wagtail](https://skillicons.dev/icons?i=wagtail) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
 ![Render](https://skillicons.dev/icons?i=render) 
 ![Postman](https://skillicons.dev/icons?i=postman) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
- 
 
 <div align="center">
-  
 ![Skills Icons](https://skillicons.dev/icons?i=python,django,react,nodejs,postgresql,mysql,html,css,js,ts,git,vscode,vercel)
-
 </div>
 
 ---
@@ -64,7 +62,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Renujan&theme=onedark&row=1&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Renujan&theme=onedark&row=1&no-frame=true&margin-w=15&column=7&rank=LAST)
 
 </div>
 
