@@ -25,38 +25,33 @@
 
 ---
 
-## 🛠 Skills & Tools  
+## ⚡ Tech Stack  
 
-### 💻 Familiar Languages
-![Python](https://skillicons.dev/icons?i=python) 
-![JavaScript](https://skillicons.dev/icons?i=js) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![HTML](https://skillicons.dev/icons?i=html) 
-![CSS](https://skillicons.dev/icons?i=css) 
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![TypeScript](https://skillicons.dev/icons?i=ts)  
+![React](https://skillicons.dev/icons?i=react)  
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+![Tailwind](https://skillicons.dev/icons?i=tailwind)  
 
-### ⚙️ Frameworks & Libraries
-![React](https://skillicons.dev/icons?i=react) 
-![Django](https://skillicons.dev/icons?i=django) 
-![Wagtail](https://skillicons.dev/icons?i=wagtail) 
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
-![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+### ⚙️ Backend
+![Python](https://skillicons.dev/icons?i=python)  
+![Django](https://skillicons.dev/icons?i=django)  
+![Wagtail](https://img.shields.io/badge/Wagtail-43b1b0?style=for-the-badge&logo=wagtail&logoColor=white)  
 
 ### 🗄️ Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
-![MySQL](https://skillicons.dev/icons?i=mysql) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
+![MySQL](https://skillicons.dev/icons?i=mysql)  
 
-### 🛠️ Tools & Platforms
-![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Render](https://skillicons.dev/icons?i=render) 
-![Postman](https://skillicons.dev/icons?i=postman) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![VS Code](https://skillicons.dev/icons?i=vscode) 
-
-<div align="center">
-  
-![Skills Icons](https://skillicons.dev/icons?i=python,django,react,nodejs,postgresql,mysql,html,css,js,ts,git,vscode,vercel)
-
-</div>
+### 🛠 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![Postman](https://skillicons.dev/icons?i=postman)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  
+![Vercel](https://skillicons.dev/icons?i=vercel)  
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)  
 
 ---
 
@@ -78,11 +73,6 @@
 ## 🚀 Featured Projects
 - [Cafe Stock Management System](https://github.com/Renujan/cafe-stock-management) – POS & Inventory system built with Django + React  
 - [E-commerce Website](https://github.com/Renujan/ecommerce-django-react) – Full-stack e-commerce with JWT auth  
-
----
-
-## ⚡ Tech Stack
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=dark&line1=python,django,react,postgresql&line2=html,css,js,ts,tailwind,bootstrap)
 
 ---
 
