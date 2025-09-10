@@ -24,34 +24,30 @@
 - 🔐 Implemented **secure authentication** with token-based systems  
 
 ---
+ ## ⚡ Tech Stack  
 
-## ⚡ Tech Stack  
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>  
 
-### 🎨 Frontend
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![React](https://skillicons.dev/icons?i=react)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
-![Tailwind](https://skillicons.dev/icons?i=tailwind)  
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django" />  
+  <img src="https://img.shields.io/badge/Wagtail-43b1b0?style=for-the-badge&logo=wagtail&logoColor=white" />
+</p>  
 
-### ⚙️ Backend
-![Python](https://skillicons.dev/icons?i=python)  
-![Django](https://skillicons.dev/icons?i=django)  
-![Wagtail](https://img.shields.io/badge/Wagtail-43b1b0?style=for-the-badge&logo=wagtail&logoColor=white)  
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>  
 
-### 🗄️ Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)  
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-
-### 🛠 Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Postman](https://skillicons.dev/icons?i=postman)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-![Vercel](https://skillicons.dev/icons?i=vercel)  
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)  
+### 🛠 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />  
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>  
+  
 
 ---
 
