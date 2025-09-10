@@ -9,6 +9,7 @@
 🌱 Passionate about **Django, React, and Wagtail CMS**  
 📍 Based in **Sri Lanka**  
 
+---
 
 ## 💼 Experience  
 
@@ -22,41 +23,66 @@
 - 📱 Developed responsive UI with **Bootstrap & Tailwind**  
 - 🔐 Implemented **secure authentication** with token-based systems  
 
-
+---
 
 ## 🛠 Skills & Tools  
 
-## 💻 Familiar Languages
+### 💻 Familiar Languages
 ![Python](https://skillicons.dev/icons?i=python) 
 ![JavaScript](https://skillicons.dev/icons?i=js) 
 ![TypeScript](https://skillicons.dev/icons?i=ts) 
 ![HTML](https://skillicons.dev/icons?i=html) 
 ![CSS](https://skillicons.dev/icons?i=css) 
 
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react) 
 ![Django](https://skillicons.dev/icons?i=django) 
 ![Wagtail](https://skillicons.dev/icons?i=wagtail) 
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) 
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) 
 
-## 🗄️ Databases
+### 🗄️ Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel) 
 ![Render](https://skillicons.dev/icons?i=render) 
 ![Postman](https://skillicons.dev/icons?i=postman) 
 ![GitHub](https://skillicons.dev/icons?i=github) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
- 
 
 <div align="center">
   
 ![Skills Icons](https://skillicons.dev/icons?i=python,django,react,nodejs,postgresql,mysql,html,css,js,ts,git,vscode,vercel)
 
 </div>
+
+---
+
+## 📊 GitHub Insights  
+
+### 👀 Profile Views Counter  
+![Profile Views](https://komarev.com/ghpvc/?username=Renujan&color=blue&style=flat-square)
+
+### 📈 GitHub Stats & Streaks  
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renujan&show_icons=true&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renujan&theme=radical&hide_border=true)  
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+- [Cafe Stock Management System](https://github.com/Renujan/cafe-stock-management) – POS & Inventory system built with Django + React  
+- [E-commerce Website](https://github.com/Renujan/ecommerce-django-react) – Full-stack e-commerce with JWT auth  
+
+---
+
+## ⚡ Tech Stack
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=dark&line1=python,django,react,postgresql&line2=html,css,js,ts,tailwind,bootstrap)
 
 ---
 
