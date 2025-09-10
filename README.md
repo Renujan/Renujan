@@ -24,7 +24,8 @@
 - 🔐 Implemented **secure authentication** with token-based systems  
 
 ---
- ## ⚡ Tech Stack  
+
+## ⚡ Tech Stack  
 
 ### 🎨 Frontend  
 <p align="center">
@@ -47,7 +48,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />  
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>  
-  
+
+---
+
+## 🏅 Achievements  
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Renujan&theme=onedark&row=1&no-frame=true&margin-w=15)
+
+</div>
 
 ---
 
@@ -61,14 +71,6 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renujan&show_icons=true&theme=radical&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renujan&theme=radical&hide_border=true)  
-
-</div>
-
-## 🏅 Achievements  
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Renujan&theme=onedark&row=1&no-frame=true&margin-w=15)
 
 </div>
 
