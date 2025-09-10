@@ -64,14 +64,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-- [Cafe Stock Management System](https://github.com/Renujan/cafe-stock-management) – POS & Inventory system built with Django + React  
-- [E-commerce Website](https://github.com/Renujan/ecommerce-django-react) – Full-stack e-commerce with JWT auth  
-
----
-
 ## 🏅 Achievements  
 
 <div align="center">
