@@ -195,3 +195,24 @@ const currentGoals2025 = {
 <div align="center">
   <sub>Built with ❤️ by Renujan | Last Updated: October 2025</sub>
 </div>
+
+## 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+  <!-- 🌟 Primary Trophy Set -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Renujan&theme=tokyonight&title=Stars,Commits,Repositories,Followers,PullRequest,Experience,Issues&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+  <br/><br/>
+
+  <!-- 🌍 Multi-Language Trophy Set -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Renujan&theme=tokyonight&title=MultiLanguage,Committer,Repository,Experience,Star,PullRequest,Follower,Issue&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Multi-Language Trophy"/>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>🏅 Showcasing achievements from my GitHub journey — including commits, stars, repositories, and multilingual contributions 🌍💻</sub>
+</div>
+
