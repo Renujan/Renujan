@@ -98,10 +98,62 @@ SLIIT Northern University | University of Bedfordshire
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
+
+## 🏅 Top Must-Have GitHub Trophies
+
+### ⭐ 1. Stars Trophy  
+💫 Shows how many stars your repositories receive.  
+👉 More stars = more popular projects!
+
+---
+
+### 🧑‍💻 2. Commits Trophy  
+🔥 Shows your coding activity.  
+👉 More commits = better consistency and developer growth.
+
+---
+
+### 🛠️ 3. Pull Request Trophy  
+🌟 Shows your contributions to open-source.  
+👉 Important for your GitHub reputation.
+
+---
+
+### 🐞 4. Issues Trophy  
+🚀 Shows that you report or fix bugs in repositories.  
+👉 Helps the global developer community.
+
+---
+
+### 📁 5. Repositories Trophy  
+📚 Shows how many repositories you created.  
+👉 Must-have to showcase your work publicly.
+
+---
+
+### ⭐ 6. Followers Trophy  
+🎉 You already have **Ultra Celebrity** status — 822 followers!  
+👉 Huge milestone & strong developer profile 💛🔥
+
+---
+
+### ⏳ 7. Long Time User Trophy  
+⌛ Shows your long-term commitment on GitHub.  
+👉 You already earned this 😄
+
+---
+
+### 🎖️ 8. Experience Trophy  
+🏅 Shows your overall GitHub contribution level.  
+👉 You already have **Master Dev** 👑
+
 
 ## Featured Projects
 
