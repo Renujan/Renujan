@@ -53,7 +53,7 @@ me.say_hi()
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Founder & Software Developer – Zentrixon</b></summary>
+<summary><b>Software Developer – Zentrixon</b></summary>
 <br/>
 
 - 🚀 Leading development and strategic direction at **[Zentrixon](https://www.zentrixon.com/)**
